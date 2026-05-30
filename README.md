@@ -42,3 +42,5 @@ The research includes an exhaustive Exploratory Data Analysis (EDA) and a system
 - **Data Augmentation:** Scaling our dataset with broader demographic representation and multi-institutional data to ensure global generalization and robustness.
 - **Advanced Ensembles:** Integrating Gradient Boosting (XGBoost/LightGBM) to capture complex, non-linear relationships even more efficiently.
 - **Clinical Validation & Scaling:** The next logical step is to expand the sample size through a multi-center study or design a pilot clinical trial to validate our model's performance on real-time diagnostic workflows, bridging the gap between computational research and bedside application.
+
+Presentation available: https://docs.google.com/presentation/d/1rCE2T6BAMk_o0M1ypbUS2MEQgAD7RjgjGjOWmg-V8rg/edit?usp=sharing
